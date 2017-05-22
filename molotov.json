@@ -12,7 +12,7 @@
             "dogdriver": {
                 "duration": 300,
                 "processes": 3,
-                "workers": 30,
+                "workers": 50,
                 "scenario": "loadtest.py",
                 "console": true
             },
