@@ -10,9 +10,9 @@
                 "console": true
             },
             "dogdriver": {
-                "duration": 300,
+                "duration": 60,
                 "processes": 3,
-                "workers": 50,
+                "workers": 100,
                 "scenario": "loadtest.py",
                 "console": true
             },
